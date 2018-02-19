@@ -1,1 +1,4 @@
-sceneSetups: []
+sceneSetups:
+- path: Assets/Editor/1T.unity
+  isLoaded: 1
+  isActive: 1
