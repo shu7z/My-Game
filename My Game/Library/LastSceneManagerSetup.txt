@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/Editor/1T.unity
+- path: Assets/V2.2.1.unity
   isLoaded: 1
   isActive: 1
