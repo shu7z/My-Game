@@ -187,7 +187,6 @@ PlayerSettings:
   tvOSSmallIconLayers: []
   tvOSSmallIconLayers2x: []
   tvOSLargeIconLayers: []
-  tvOSLargeIconLayers2x: []
   tvOSTopShelfImageLayers: []
   tvOSTopShelfImageLayers2x: []
   tvOSTopShelfImageWideLayers: []
@@ -618,6 +617,6 @@ PlayerSettings:
   apiCompatibilityLevel: 2
   cloudProjectId: 32a85dd2-851f-4a26-93d4-93c90b0caad3
   projectName: My Game
-  organizationId: unity_kvrgb_t5in06ug
+  organizationId: ariongaming
   cloudEnabled: 0
   enableNewInputSystem: 0
